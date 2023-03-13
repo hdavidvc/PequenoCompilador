@@ -1,0 +1,18 @@
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador  1-17-0167.exe.config
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador  1-17-0167.exe
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador  1-17-0167.pdb
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador 1-17-0167.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador 1-17-0167.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador  1-17-0167.exe
+C:\Users\USER\Downloads\Proyecto Final DOOES\Proyecto Final DOOES\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador  1-17-0167.pdb
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Compiladores_2019.Form1.resources
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador 1-17-0167.csproj.GenerateResource.cache
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador 1-17-0167.csproj.CoreCompileInputs.cache
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador.exe.config
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador.exe
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador.pdb
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\COMPILADOR.Properties.Resources.resources
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador.exe
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador.pdb

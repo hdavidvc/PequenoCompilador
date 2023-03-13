@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+int main() {
+
+
+
+string var1 = "Bienvenidos";
+
+int var5 = 1998;
+
+if ( var5 == 1998 )
+
+{ 
+
+ cout << "Analizador sintactico" << endl;
+
+} 
+
+if ( var1 == "Bienvenidos" )
+
+{ 
+
+ cout << "COMPILADORES 2023" << endl;
+
+} 
+
+
+
+return 0;
+}

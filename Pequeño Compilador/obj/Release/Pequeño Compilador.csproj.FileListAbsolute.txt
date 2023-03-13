@@ -1,0 +1,20 @@
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Release\Pequeño Compilador.exe.config
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Release\Pequeño Compilador.exe
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Release\Pequeño Compilador.pdb
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Release\Compiladores_2022.Form1.resources
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Release\COMPILADOR.Properties.Resources.resources
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Release\Pequeño Compilador.csproj.GenerateResource.cache
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Release\Pequeño Compilador.csproj.CoreCompileInputs.cache
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Release\Pequeño Compilador.exe
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Release\Pequeño Compilador.pdb
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\bin\Release\Pequeño Compilador.exe.config
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\bin\Release\Pequeño Compilador.exe
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\bin\Release\Pequeño Compilador.pdb
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\Pequeño Compilador.csproj.AssemblyReference.cache
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\Pequeño Compilador.csproj.SuggestedBindingRedirects.cache
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\Compiladores_2022.Form1.resources
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\COMPILADOR.Properties.Resources.resources
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\Pequeño Compilador.csproj.GenerateResource.cache
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\Pequeño Compilador.csproj.CoreCompileInputs.cache
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\Pequeño Compilador.exe
+D:\GENERAL\UTESA\2-2022\COMPILADORES 2022\PequeñoCompilador\Pequeño Compilador\obj\Release\Pequeño Compilador.pdb

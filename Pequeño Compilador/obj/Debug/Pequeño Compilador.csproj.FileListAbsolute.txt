@@ -1,0 +1,9 @@
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador.exe.config
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador.exe
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\bin\Debug\Pequeño Compilador.pdb
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Compiladores_2022.Form1.resources
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\COMPILADOR.Properties.Resources.resources
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador.csproj.GenerateResource.cache
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador.csproj.CoreCompileInputs.cache
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador.exe
+F:\UTESA\2-2022\COMPILADORES\PequuenioCompilador-main\Pequeño Compilador 1-17-0167\obj\Debug\Pequeño Compilador.pdb
